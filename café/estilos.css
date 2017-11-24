@@ -21,3 +21,14 @@ h3{
  font-size: 25px;
 
 }
+
+
+table#alter tr td { 
+	background: #BDB76B;
+	} 
+table#alter tr.dif td {
+	background: #228B22; 
+	}
+
+
+	
